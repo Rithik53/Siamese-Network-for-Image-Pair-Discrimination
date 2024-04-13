@@ -1,0 +1,2 @@
+# Siamese Network for Image Pair Discrimination
+ This project involves the development of a Siamese neural network designed to assess the similarity between pairs of images. Leveraging TensorFlow and Keras, the network utilizes convolutional neural layers to extract features from each image in a pair, computes the euclidean distance between these feature sets, and classifies the pair as either similar or dissimilar based on this distance.
