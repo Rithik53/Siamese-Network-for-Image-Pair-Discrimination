@@ -13,7 +13,7 @@ This project involves the development of a Siamese neural network designed to as
 To set up the project environment, ensure you have Python installed, then run the following commands to install the necessary packages:
 ```bash
 pip install tensorflow==2.3.0 opencv-python matplotlib
-
+```
 ### Prerequisites
 - Python 3.8
 - TensorFlow 2.3
@@ -26,10 +26,10 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/Rithik53/Siamese-Network-for-Image-Pair-Discrimination.git
 cd siamese-image-pair-discrimination
-
+```
 ##Usage
 To run this project, navigate to the project directory and execute the script by running:
 ```bash
 python siamese_network.py
-
+```
 ![Example Output](https://github.com/Rithik53/Siamese-Network-for-Image-Pair-Discrimination/blob/main/output/plot.png)
