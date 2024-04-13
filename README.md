@@ -27,7 +27,7 @@ Clone this repository to your local machine:
 git clone https://github.com/Rithik53/Siamese-Network-for-Image-Pair-Discrimination.git
 cd siamese-image-pair-discrimination
 ```
-##Usage
+## Usage
 To run this project, navigate to the project directory and execute the script by running:
 ```bash
 python siamese_network.py
