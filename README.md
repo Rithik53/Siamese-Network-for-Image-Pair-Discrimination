@@ -32,4 +32,6 @@ To run this project, navigate to the project directory and execute the script by
 ```bash
 python siamese_network.py
 ```
+## Example Output
+
 ![Example Output](https://github.com/Rithik53/Siamese-Network-for-Image-Pair-Discrimination/blob/main/output/plot.png)
